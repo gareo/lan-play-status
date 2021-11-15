@@ -424,5 +424,19 @@
     "flag": "cn",
     "platform": "switch",
     "type": "rust"
+  },
+  {
+    "ip": "rust.nxlp.ga",
+    "port": 11451,
+    "flag": "es",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "c.nxlp.ga",
+    "port": 11451,
+    "flag": "es",
+    "platform": "switch",
+    "type": "dotnet"
   }
 ]
